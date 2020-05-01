@@ -1,4 +1,4 @@
-(ns core)
+(ns asiegf.utils.core)
 
 (defmacro mmap
   "Transforms a list of symbols into keywords and map them
